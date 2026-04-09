@@ -1,14 +1,22 @@
-Layer 1 (Week 2):= ***COMPLETE***
+#### **Layer 1 (Thermodynamic Simulator) := COMPLETE**
 
-\- Full thermodynamic BOG simulator
+\- *Simulator v2.0* with all 11 requisite physics fixes
 
-\- Environmental + ship physics
+\- Composition-correct latent heat
 
-\- *LNG composition model*
+\- Sloshing applied to Q\_Total
 
-\- 12,000-sample synthetic dataset generated
+\- Speed convection corrected
 
-\- Ready for Layer 2 **(PINN)**
+\- Saturation-pressure-consistent h\_vap
+
+\- Composition-dependent density
+
+\- **Clean ΔT physics**
+
+\- Proportional sensor noise
+
+\- Final **12,000-hour dataset generated**
 
 
 
